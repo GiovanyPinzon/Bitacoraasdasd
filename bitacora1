@@ -2,3 +2,4 @@ puse mi nombre con git config y luego cree 1 carpeta con el numero de ficha y lu
 cree una nueva rama llamada develop y entre en ella modifique notas y dentro puse git flow guarde salir y lo capture con git add y git commit -m
 en ese archivo en notas.txt, copie y pegue lo que esta en la guia y luego lo guarde con git add y git commit -m
 Use git checkout a el commit y luego revise notas y estaba igual que antes de hacer el commit -m, cree una nueva rama y entre en ella, abri notas y lo modifique y lo guarde con git add y git commit
+Sali a la rama develop, uni la nueva rama y revise el git log y elimina la ultima rama
