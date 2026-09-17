@@ -1,2 +1,3 @@
 puse mi nombre con git config y luego cree 1 carpeta con el numero de ficha y luego cree el archivo notas luego use init para iniciar el repositorio
 cree una nueva rama llamada develop y entre en ella modifique notas y dentro puse git flow guarde salir y lo capture con git add y git commit -m
+en ese archivo en notas.txt, copie y pegue lo que esta en la guia y luego lo guarde con git add y git commit -m
