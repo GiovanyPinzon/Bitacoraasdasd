@@ -1,2 +1,3 @@
 Ponerle un logo a el perfil en github
 ponerle una descripcion un poco sobre mi en github
+crear un repositorio en github y clonarlo en la computadora
