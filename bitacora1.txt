@@ -1,2 +1,4 @@
 Creacion de equipos y juego en kahoot
 Crear repositorio en github
+Copiar repositorio en gitbash
+
