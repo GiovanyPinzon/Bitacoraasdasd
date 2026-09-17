@@ -5,3 +5,5 @@ Actividad 2
 -Exponer las investigaciones realizadas por cada grupo y socializar una lluvia de ideas propuesta por todos
 Actividad 3
 -Con base en la exposición y las ideas propuestas en la lluvia de ideas, hice en 5 renglones qué pasaría si no tuviera el mouse y únicamente usara el teclado y la terminal
+Actividad 4
+-Realizar una breve explicación sobre las herramientas que utilizamos actualmente, cómo utilizar una terminal y desarrollar un trabajo práctico sobre el uso de terminales
