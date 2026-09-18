@@ -1,3 +1,4 @@
 21 de agosto bitacora 
 Juego en Kahoot sobre la guia de la terminal 
 abri git bash con la tecla windows y escribi gitbash
+Ver donde estaba con pwd y crear la carpeta techsolutions-web en la carpeta adso
