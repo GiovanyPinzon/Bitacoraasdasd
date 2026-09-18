@@ -4,3 +4,4 @@ me movi con switch en y luego use git branch para crear otra rama y nano para ca
 use git checkout para salir de final alternativo y despues modifique el texto con nano y lo guarde con git add y commit -m	
 entre a la rama principal y con merge hice que se creara un error 
 use nano para cambiar el texto del archivo donde se encontraba el error y lo guarde con git add y git commit -m
+use git branch -d y final alternativo y luego utilice git log –graph –oneline para ver las ramas
