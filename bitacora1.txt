@@ -1,5 +1,0 @@
-Creacion de equipos y juego en kahoot
-Crear repositorio en github
-Copiar repositorio en gitbash
-subir un repositorio de gitbash a github
-Union en equipo mediante github
