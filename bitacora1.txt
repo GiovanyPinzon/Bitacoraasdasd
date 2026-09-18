@@ -1,7 +1,0 @@
-dia1
-Actividad 1
--Se desarollo la verificacion de la bitacora de un compañero mediante una Auditoria
-Actividad 2
--Se realizo una lista donde se debe marcar si se cumplen o no los requerimientos en la bitácora del compañero 
-Actividad 3
--Se realizo un informe personal sobre blockers, responsabilidad única (SRP) y acciones de mejora
