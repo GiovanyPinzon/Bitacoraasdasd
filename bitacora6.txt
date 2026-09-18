@@ -1,0 +1,2 @@
+viernes 28
+use los comandos mkdir para crear la carpeta y cd para entrar en ella, cree un archivo llamado historia.txt y modifique el texto dentro de ella luego use git add y git commit -m para guardar los cambios
