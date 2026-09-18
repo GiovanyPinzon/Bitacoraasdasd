@@ -1,2 +1,3 @@
 21 de agosto bitacora 
 Juego en Kahoot sobre la guia de la terminal 
+abri git bash con la tecla windows y escribi gitbash
