@@ -3,3 +3,4 @@ use los comandos mkdir para crear la carpeta y cd para entrar en ella, cree un a
 me movi con switch en y luego use git branch para crear otra rama y nano para cambiar el texto en el .txt y lo guarde con git add y git commit -m
 use git checkout para salir de final alternativo y despues modifique el texto con nano y lo guarde con git add y commit -m	
 entre a la rama principal y con merge hice que se creara un error 
+use nano para cambiar el texto del archivo donde se encontraba el error y lo guarde con git add y git commit -m
