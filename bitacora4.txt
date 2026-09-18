@@ -7,3 +7,5 @@ renombrar el documento estilo.css a main.css con mv
 Devolverme y hacer un documento llamado readme.txt y moverlo adentro de activos 
 Entre a la carpeta temporal y cree un documento llamado cache- 
 sesion.tmp 
+Elimine cache-sesion.tmp con rm y luego la carpeta con rm -r
+Reflexion sobre la pelicula avengers endgame
